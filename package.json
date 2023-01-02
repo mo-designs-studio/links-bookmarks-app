@@ -1,0 +1,25 @@
+{
+  "name": "links-bookmarks-app",
+  "version": "1.0.0",
+  "description": "Application organize urls bookmarks to easly store and search",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo-designs-studio/links-bookmarks-app.git"
+  },
+  "keywords": [
+    "url",
+    "links",
+    "bookmarks",
+    "orgnizer"
+  ],
+  "author": "Mo Designs Studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mo-designs-studio/links-bookmarks-app/issues"
+  },
+  "homepage": "https://github.com/mo-designs-studio/links-bookmarks-app#readme"
+}
